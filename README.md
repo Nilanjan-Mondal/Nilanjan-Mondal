@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nilanjan-Mondal
-- 👀 I’m interested in Gaming and Software Dev 
+- 👀 I’m interested in Coding and Software Dev 
 - 🌱 I’m currently learning C and C++
 - 📫 How to reach me? Ping me on discord @haggucheemdu
 
