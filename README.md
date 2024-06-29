@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nilanjan-Mondal
 - 👀 I’m interested in Coding and Software Dev 
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning DSA(C++) and Full Stack Development
 - 📫 How to reach me? email me -> nilanjanmondal165@gmail.com
 
 <!---
