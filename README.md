@@ -54,8 +54,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nilanjan-Mondal&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nilanjan-Mondal&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilanjan-Mondal&theme=radical" height="180em" />
-</br>
-</br>
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nilanjan-Mondal&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilanjan-Mondal&theme=radical" height="180em" />
 </div>
