@@ -4,7 +4,7 @@
 
 
 - 🤝 I’m looking for **internships and opportunities to learn and grow**
-- 🌱 I’m currently learning **DSA and Full Stack Development**
+- 🌱 I’m currently learning **Dev Ops**
 - 💬 Ask me about **Data Structures, Algorithms and Web Development**
 - 📫 How to reach me **email me - nilanjanmondal165@gmail.com**
 - ⚡ Fun fact **I use tabs over spaces :)**
