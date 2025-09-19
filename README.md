@@ -48,7 +48,7 @@
   
 ![streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Nilanjan-Mondal&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9%22%20alt=%22streak%20stats&hide_border=true)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Nilanjan_Mondal?theme=nord&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Nilanjan_Mondal?theme=dark&font=source_code_pro&extension=null)
 </div>
 
 
