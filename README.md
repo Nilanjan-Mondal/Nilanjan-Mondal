@@ -34,7 +34,7 @@
 
 <div align="center">
    
-![stats](https://github-readme-stats.vercel.app/api?username=Nilanjan-Mondal&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&hide_border=true)
+![stats](https://github-readme-stats-fast.vercel.app/api?username=Nilanjan-Mondal&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
 ![language](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nilanjan-Mondal&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&size_weight=0.5&count_weight=0.5&hide_border=true) 
 </div>
 
@@ -48,7 +48,7 @@
   
 ![streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Nilanjan-Mondal&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9%22%20alt=%22streak%20stats&hide_border=true)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Nilanjan_Mondal?theme=dark&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nilanjan_Mondal?theme=dark&font=source_code_pro)
 </div>
 
 
