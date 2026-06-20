@@ -73,10 +73,41 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   </a>&nbsp;
+  
+  <!-- Azure DevOps -->
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="50" height="50"/>
+  </a>&nbsp;
+  
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>&nbsp;
+  
+  <!-- MinIO -->
+  <a href="https://min.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" alt="MinIO" width="50" height="50"/>
+  </a>&nbsp;
+  
+  <!-- Redis -->
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+  </a>&nbsp;
+  
+  <!-- ChromaDB -->
+  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/101414441?s=200&v=4" alt="ChromaDB" width="50" height="50"/>
+  </a>&nbsp;
+
   <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
   </a>&nbsp;
+
+  <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure-openai" width="50" height="50"/>
+  </a>&nbsp;
+  
   <!-- Babel (yellow) -->
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="50" height="50"/>
